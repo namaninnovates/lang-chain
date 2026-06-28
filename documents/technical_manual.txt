@@ -1,0 +1,17 @@
+ABC Technologies - Technical Manual
+
+1. Installation Issues
+- If you are receiving an "Error 404" during installation, ensure that you have downloaded the correct installer for your operating system.
+- If the installer hangs at 99%, restart your computer and run it as an administrator.
+
+2. Login Problems
+- If you cannot log in, try clearing your browser cookies and cache.
+- Ensure that caps lock is turned off. Passwords are case sensitive.
+- If you see "Account locked," wait 15 minutes and try again.
+
+3. Application Errors
+- If the application crashes whenever you upload a file, please check the file format. Only PDF, PNG, and JPG formats are supported. Also, ensure the file size is under 5MB. If the problem persists, try using a different browser.
+- "Database Connection Error": This usually means our servers are undergoing maintenance. Please check our status page.
+
+4. Configuration Issues
+- To configure email integration, go to Settings -> Integrations -> Email and enter your SMTP server details.

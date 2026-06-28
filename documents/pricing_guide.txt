@@ -1,0 +1,17 @@
+ABC Technologies - Pricing Guide
+
+We offer the following software subscription plans:
+
+1. Basic Plan
+- Cost: $29/month or $290/year
+- Features: Core CRM functionality, up to 1,000 contacts, email support.
+
+2. Professional Plan
+- Cost: $79/month or $790/year
+- Features: Everything in Basic, up to 10,000 contacts, priority email support, API access, advanced reporting.
+
+3. Enterprise Plan
+- Cost: Custom pricing starting at $299/month.
+- Features: Unlimited contacts, 24/7 phone support, dedicated account manager, custom integrations.
+
+Note: Annual plans offer a two-month discount compared to monthly billing.

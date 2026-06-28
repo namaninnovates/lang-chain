@@ -1,0 +1,17 @@
+ABC Technologies - Company Policy Document
+
+1. Refunds
+- Annual subscription refunds: Customers can request a refund for their annual subscription within the first 30 days. These requests must be approved by a human supervisor.
+- Monthly subscription refunds: Not permitted unless there was a billing error. All such requests require supervisor approval.
+
+2. Subscription Cancellation
+- Customers can cancel their subscription at any time. However, to prevent accidental churn, all cancellation requests must be reviewed and processed by a supervisor.
+
+3. Account Closure
+- Closing an account permanently deletes all user data. This action is irreversible and requires explicit human supervisor approval.
+
+4. Compensation Requests
+- Any request for compensation (e.g., due to service downtime) must be escalated to a supervisor for approval.
+
+5. Escalation to Management
+- If a customer explicitly requests to speak with a manager or supervisor, the request must be routed for human approval.
